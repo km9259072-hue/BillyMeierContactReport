@@ -7,6 +7,7 @@
 - [第7次接触](#第007次接触)
 - [第8次接触](#第008次接触)
 - [第12次接触](#第012次接触)
+- [第20次接触](#第020次接触)
 
 ---
 
@@ -37,3 +38,11 @@
 |--|--|--|
 | ![](/static/image/012/CR12-Image1.jpg) | ![](/static/image/012/CR12-Image2.jpg) | ![](/static/image/012/CR12-Image3.jpg) |
 | ![](/static/image/012/CR12-Image4.jpg) ||  |
+
+---
+
+### 第020次接触
+
+|  |  |  |
+|--|--|--|
+| ![](/static/image/020/CR20-Image2.jpg) | ![](/static/image/020/CR20-Image3.jpg) |  |

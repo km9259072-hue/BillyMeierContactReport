@@ -11,6 +11,8 @@
 ### 原文
 
 - [第542次接触](#原文第542次接触2012年7月7日星期六下午2点30分)
+- [第543次接触](#原文第543次接触2012年8月4日星期六下午3点03分)
+- [第616次接触](#原文第616次接触2015年3月12日星期四下午1点54分)
 
 ---
 
@@ -153,11 +155,11 @@
 
 #### 原文第542次接触2012年7月7日星期六下午2点30分
 
-Billy:
+**Billy**:
 
 Letzte Nacht, wie schon verschiedentlich zuvor, hatte ich wieder einen Telephonanruf und wurde zum x-ten Mal gefragt, warum wir keine Elektronikbücher machen. Auch haben wir bei einer GV einmal darüber gesprochen, wobei ich jedoch auch da gemäss dem dagegen stimmte, was Zafenatpaneach,du, Quetzal und euer Gremium dazu zu sagen hatten, was leider auch nur in einem Privatgespräch erörtert und deshalb nicht in einem Kontaktbericht niedergeschrieben wurde. Daher möchte ich dich bitten, einmal von deiner Seite aus etwas offiziell dazu zu sagen, und zwar auch das, was du mir bezüglich der Verbindung zwischen Buch und Leser resp. Leserin gesagt hast.
 
-Ptaah:
+**Ptaah**:
 
 3.Was ich dir bezüglich elektronischer Bücher erklärt habe, bezieht sich sowohl auf meine eigenen Erfahrungen und auf die von Zafenatpaneach, Quetzal wie auch auf unser Gremium.
 
@@ -193,6 +195,95 @@ Ptaah:
 
 19.Ein elektronisches Gerät hinterlässt zudem in keinem Fall eine solche Vielfalt von bleibenden Eindrücken, wie diese ein Buch vermittelt, das in den Händen gehalten werden kann und auch jederzeit wieder greifbar ist, wenn es weggelegt wird und mit dem der Mensch gedanklichgefühlsmässig eine Beziehung und Verbindung eingeht.
 
-Billy:
+**Billy**:
 
 Danke, das einmal offen zu erklären, kann wirklich zum Verständnis führen, dass Elektronikbücher zum Lernen wirklich ungeeignet sind, weil sie rein nur zur Information und vielleicht noch zur Unterhaltung dienen, ansonsten jedoch nicht als wertvoll in bezug auf das Lernen bezeichnet werden können. Wenn ich so darüber nachdenke, dann erscheint mir das Ganze wie bei Zeitungen, die Nachrichten und sonstige Informationen bringen, die von der Leserschaft aufgesogen und dann sehr schnell wieder vergessen werden, weil das ganze Informative ja nur oberflächlich, nicht persönlich bezogen und ohne persönliche Beziehung und Verbindung ist. Das ist der springende Punkt.
+
+---
+
+#### 原文第543次接触2012年8月4日星期六下午3点03分
+
+**Billy**:
+
+Aber wenn wir schon beim Photobuch sind, dann hätte ich noch eine weitere Frage bezüglich dessen, was du am 7. Juli beim 542. offiziellen Gespräch gesagt hast hinsichtlich elektronischer Bücher. Du wolltest nach dem Ende des offiziellen Gesprächs noch eine weitere Erklärung dazu geben, doch ist das leider in unserer nachträglichen Unterhaltung untergegangen.
+
+**Ptaah**:
+
+25.Ja, ich erinnere mich.
+
+26.Zum Erklärten wollte ich noch hinzufügen, dass das Lesen von elektronischen Büchern für die Bewusst seinstätigkeit und das materielle Gehirn auch äusserst schädlich ist.
+
+27.Wenn nämlich durch das Lesen von elektronischen Daten diese nur aufgenommen, jedoch nicht in gutem Masse durch Verstand, Vernunft und Logik verarbeitet werden, dann erfolgt langsam aber sicher eine Bewusstseinsverarmung und Bewusstseinsverkümmerung.
+
+28.Weiter ergibt sich aber auch eine schleichende Beeinträchtigung des Gehirns, wobei ein Prozess der Gehirnverringerung erfolgt, wie aber auch ein zunehmendes Körpergewicht sowie unkontrollierbare Aggressivität und ein langsamer Verlust des Verstandes in Erscheinung treten.
+
+29.Gleichermassen gelten all diese negativen Erscheinungsformen auch für alle andere elektronische Medien jeder Art, wenn die notwendige Bewusstseinsarbeit auf diese übertragen wird und keine massgebend eigene, kontrollierte, logische, verstandes- und vernunftsmässige Bewusstseinstätigkeit mehr stattfindet.
+
+30.Wenn nur noch durch digitale Medien konsumiert und dadurch die bewusstseinsmässige Arbeit vernachlässigt wird, dann führt das zu üblen Folgen, durch die eine allgemeine Verkümmerung der Ratio, des Gedächtnisses, wie aber auch der Psyche und des Körpers stattfindet.
+
+31.Auch entsteht eine Ideen-, Motivations- und Interesselosigkeit in bezug auf eine allgemeine körperliche Ertüchtigung sowie hinsichtlich wissensmässiger Interessen und einer guten und rechtschaffenen Lebens-weise usw.
+
+**Billy**:
+
+Gilt das allgemein für die elektronische Unterhaltung und Information, so also auch in bezug auf das Internetz, das Facebook, das iPad, Computerspiele usw. und alles sonstig diesbezüglich Existierende und zukünftig noch Kommende?
+
+**Ptaah**:
+
+32.Das ist tatsächlich so.
+
+**Billy**:
+
+Dann kann man wohl sagen, dass der Mensch der Erde durch die digitalen Medien langsam aber sicher der Verblödung verfällt, immer lebensunfähiger wird und sein Gehirn durch ein langsames Schrumpfen kleiner und aktionsunfähiger und der Mensch immer dümmer und dämlicher wird?
+
+**Ptaah**:
+
+33.Das Übel kann auch in dieser Weise genannt werden.
+
+34.Es sind nicht nur elektronische Bücher, die beim Menschen bewusstseins- und ratiomässige Schäden hervorrufen, sondern es sind diesbezüglich alle digitalen Informations-Medien, wie aber auch alle soge-nannten Spielkonsolen zu nennen.
+
+35.Durch die Vielfalt der digitalen Medien aller Art sind ganz besonders Kinder und Jugendliche sowie von den genannten Medien abhängige Erwachsene gefährdet.
+
+36.Durch  das  Ganze verkümmern nach und nach die Lebensfähigkeit, das Lebensbeständigkeitsvermögen, die Selbstwertigkeit, das persönliche Entscheidungsvermögen, die Gedanken- und Gefühlswelt sowie die Kraft der Selbstinitiative.
+
+37.Alles Diesbezügliche wird derart stark beeinträchtigt, dass selbst in arger Weise das Mitgefühl,der Sinn für Recht und Ordnung sowie für Gerechtigkeit und Rechtschaffenheit hinfällig werden.
+
+38.Dadurch entstehen Anarchismus, Gleichgültigkeit, Mutwilligkeit, Lebensverachtung, Wissens-,Weisheitsund Lieblosigkeit sowie ausartende Aggressionen, und zwar bis hin zur bedenkenlosen, leichtsinnigen und ausartenden Harmung der Mitmenschen.
+
+39.Weiter entstehen daraus auch Faktoren grenzenloser Verantwortungslosigkeit sowie der Gefährdung oder Zerstörung des eigenen Lebens oder anderer Menschen.
+---
+
+#### 原文第616次接触2015年3月12日星期四下午1点54分
+
+**Billy**:
+
+Weitere Frage, die wahrscheinlich etwas blöd ist, denn du hast ja einmal gesagt, dass wir keine elektronische Bücher herstellen sollen, weil diese zum effectiven Lernen nichts taugen würden. Trotzdem aber die Frage: Stellt ihr selbst auch keine elektronische Bücher her?
+
+**Ptaah**:
+
+40.Nein, denn sie sind zum Lernen völlig ungeeignet, weil der Stoff, der in solchen Werken gelesen wird, nur oberflächlich aufgenommen wird und nicht wirklich umfänglich im Gedächtnis haften bleibt,was völlig anders ist bei Werken, die in Schrift und Wort direkt vor den Augen auf Materialien – eben wie Bücher usw. – abgelesen, studiert und in mehrfacher Wiederholung abermals studiert werden können.
+
+41.Allein die auf festem Material basierende real-optische Sichtweise ist dazu geeignet, ein wirkliches Studium zu betreiben, während elektronische Bücher oder sonstige Elemente jeder elektronischen Art er-fahrungsgemäss sich nicht für ein effectives Studium eignen, weil durch diese nur ein mangelhaftes Lernen zustande kommen und in der Regel das Gelesene nicht effectiv im Gedächtnis registriert werden kann.
+
+42.Dies hat einerseits mit der Unaufmerksamkeit der lesenden Person zu tun, und anderseits damit,weil die elektronischen resp. elektromagnetischen Schwingungen das Gedanken-GefühlsGedächtnisvermögen beeinträchtigen, was zur Folge hat, dass etwas, das auf elektronischem Weg gelesen wird, stets unvollständig gedächtnismässig registriert wird.
+
+43.Die Wirkung davon ist die, dass das gleiche elektronisch gelesene Material resp. Schriftwerk also nicht vollständig im Gedächtnis haften bleibt, sondern immer wieder abgerufen resp. neuerlich gelesen und repetiert werden muss.
+
+**Billy**:
+
+Das ist mal eine klare Erklärung, warum richtige, jedoch nicht elektronische Bücher gelesen und studiert werden sollen. Und was du gesagt hast, trifft wohl auf alles in elektronischer Form zu, wenn es darum geht, etwas zu lernen und zu studieren. Es ist wohl auch zu bedenken, dass bei richtigen Büchern und deren Lesen und Studieren dies in Ruhe und irgendwie harmonisch geschieht, während bei elektronischen Büchern irgendwie Hektik, Unruhe und Unaufmerksamkeit zutage treten, wie ich selbst verschiedentlich festgestellt habe, wenn mir elektronisch verfasste Dinge gezeigt wurden.
+
+**Ptaah**:
+
+44.Das ist richtig, doch jene Menschen, die sich in elektronischer Weise mit Artikeln, Büchern,Schriften oder mit ähnlichen Dingen befassen, vermögen dies nicht wahrzunehmen und also weder zu realisieren noch zu verstehen, und zwar darum, weil sie durch die Elektronik befangen sind und sich einer eigenen irrealen Realität hingeben.
+
+45. In dieser Weise wird sozusagen eine eigene Welt erschaffen, in der der Mensch lebt, gefangen und von der er süchtig und damit abhängig ist.
+
+**Billy**:
+
+Es kann wohl dabei gesagt werden, dass ein Mensch in dieser Weise sehr schnell zum Freak wird,also zu jemandem, der sich in übertriebener Weise für die elektronischen Dinge begeistert, so also für E-Bücher, Handys, iPad und Apps usw. Das Ganze verhält sich aber anders, denke ich, wenn es sich um elektronische Aufzeichnungen handelt, die z.B. bestimmte Fakten aufzeigen und einfach Dinge klarlegen, die gedächtnismässig schnell registriert und verstandesmässig schnell erfasst werden können.
+
+**Ptaah**:
+
+46. Was du sagst, ist richtig.
+
+

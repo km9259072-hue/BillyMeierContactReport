@@ -1,10 +1,10 @@
 # 电子书的危害
-<center>
-## 第616次接触 2015年3月12日，星期四，下午1点54 分
-</center>
+
+## <center>第616次接触 2015年3月12日，星期四，下午1点54 分
+---
 比利：
 <details>
-  <summary><b>点击查看原文：Weitere Frage...</b></summary>
+  <summary><b>点击查看原文：</b></summary>
   <p>Weitere Frage, die wahrscheinlich etwas blöd ist, denn du hast ja einmal gesagt, dass wir keine elektronische Bücher herstellen sollen, weil diese zum effectiven Lernen nichts taugen würden. Trotzdem aber die Frage: Stellt ihr selbst auch keine elektronische Bücher her?</p>
 </details>
 

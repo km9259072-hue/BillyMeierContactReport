@@ -15,10 +15,7 @@
 </details>
 
 google:还有一个问题，可能有点傻，因为您之前说过我们不应该制作电子书，因为它们对有效学习没有用。不过，问题是：你们自己难道不制作电子书吗？<br/>
-*** 
----
-_________________
-<hr style="border: none; border-top: 2px dotted #ccc;" />
+
 <hr style="border: none; border-top: 2px dashed #999;" />
 gemini:还有一个问题，这可能问得有点傻，因为你曾经说过，我们不应该制作电子书，因为它们对有效学习没有用。但我还是想问：你们自己也不制作电子书吗？
 
@@ -28,7 +25,7 @@ gemini:还有一个问题，这可能问得有点傻，因为你曾经说过，�
   <p>40.Nein, denn sie sind zum Lernen völlig ungeeignet, weil der Stoff, der in solchen Werken gelesen wird, nur oberflächlich aufgenommen wird und nicht wirklich umfänglich im Gedächtnis haften bleibt,was völlig anders ist bei Werken, die in Schrift und Wort direkt vor den Augen auf Materialien – eben wie Bücher usw. – abgelesen, studiert und in mehrfacher Wiederholung abermals studiert werden können.</p>
 </details>
 
-google:40.不，因为它们完全不适合学习，因为这类作品中阅读的材料只是被浅尝辄止地吸收，并不能真正完整地记住，这与可以直接在眼前阅读、学习和反复学习的书面文字材料（如书籍等）完全不同。<br/>gemini:40.不，我们不制作。因为电子书完全不适合学习。在电子著作中阅读的材料只能被表面地吸收，无法真正全面地停留在记忆中。这与直接在实物材料（如纸质书籍等）上阅读、研究，并能通过多次重复进行深度研学的方式完全不同。
+google:40.不，因为它们完全不适合学习，因为这类作品中阅读的材料只是被浅尝辄止地吸收，并不能真正完整地记住，这与可以直接在眼前阅读、学习和反复学习的书面文字材料（如书籍等）完全不同。<br style="border: none; border-top: 2px dashed #999;" />gemini:40.不，我们不制作。因为电子书完全不适合学习。在电子著作中阅读的材料只能被表面地吸收，无法真正全面地停留在记忆中。这与直接在实物材料（如纸质书籍等）上阅读、研究，并能通过多次重复进行深度研学的方式完全不同。
 
 <details>
   <summary>点击查看原文</summary>

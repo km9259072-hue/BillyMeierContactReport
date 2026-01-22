@@ -15,7 +15,7 @@
 - [七、多媒体]
     - [7.1 UFO图片合集一](./content/proof/UfoImage.md)
     - [7.2 UFO图片合集二](./content/proof/UfoImageTwo.md)
-    - [8.1 其他图片](./content/img/Misc.md)
+    - [7.3 其他图片](./content/img/Misc.md)
 
 ---
 

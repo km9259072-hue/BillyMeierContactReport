@@ -10,14 +10,6 @@
 
 ---
 
-### 第048次接触
-
-|  |  |  |
-|--|--|--|
-| ![](/static/image/048/CR48-Image1.jpg) |  |  |
-
----
-
 ### 阿波罗与联盟号对接
 
 |  |  |  |
@@ -52,3 +44,11 @@
 |--|--|--|
 | ![](/static/image/031/CR31-Image29.jpg) | ![](/static/image/031/CR31-Image30.jpg) | ![](/static/image/031/CR31-Image31.jpg) |
 | ![](/static/image/031/CR31-Image32.jpg) | - | - |
+
+---
+
+### 第048次接触
+
+|  |  |  |
+|--|--|--|
+| ![](/static/image/048/CR48-Image1.jpg) |  |  |

@@ -12,16 +12,10 @@
 - [四、预言]
 - [五、心理]
 - [六、预言]
-- [七、证据]
-    - [7.1 UFO图片](./content/proof/UfoImage.md)
-    - [7.2 UFO图片](./content/proof/UfoImageTwo.md)
-- [八、照片](#四联系作者)
+- [七、多媒体]
+    - [7.1 UFO图片合集一](./content/proof/UfoImage.md)
+    - [7.2 UFO图片合集二](./content/proof/UfoImageTwo.md)
     - [8.1 其他图片](./content/img/Misc.md)
-    - [8.2 阿波罗与联盟号对接](./content/img/SoyuzApollo.md)
-    - [8.3 德恩宇宙](./content/img/DernUniversum.md)
-    - [8.4 核战](./content/img/NuclearWar.md)
-    - [8.5 史前生物](./content/img/PrehistoricAnimals.md)
-
 
 ---
 

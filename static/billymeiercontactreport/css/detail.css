@@ -1,0 +1,130 @@
+ /* --- 全局基础样式 --- */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "PingFang SC", "Microsoft YaHei", -apple-system, sans-serif;
+            background-color: #fcfcfc;
+            color: #333;
+            line-height: 1.8;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 25px;
+        }
+
+        
+
+        /* --- 文章详情板块 --- */
+        .article-container {
+            padding: 60px 0;
+        }
+
+        /* 标题区域 */
+        .article-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .article-header h1 {
+            font-size: 2.2rem;
+            color: #111;
+            margin-bottom: 15px;
+        }
+
+        .meta-info {
+            font-size: 0.9rem;
+            color: #888;
+        }
+
+        /* 中英对照核心布局 */
+        .bilingual-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .translation-row {
+            display: flex;
+            gap: 50px; /* 左右间距 */
+           /* padding: 5px 0;*/
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .text-column {
+            flex: 1;
+        }
+
+        /* 中文字体样式 */
+        .chinese-text {
+            font-size: 1.05rem;
+            color: #222;
+            text-align: justify;
+        }
+
+        /* 英文字体样式 */
+        .english-text {
+            font-size: 1rem;
+            color: #666;
+            font-family: "Georgia", serif; /* 英文常用衬线体，方便区分 */
+            text-align: justify;
+        }
+
+        /* 移动端适配：屏幕宽度小于 800px 时改为上下堆叠 */
+        @media (max-width: 800px) {
+            .translation-row {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .article-header h1 {
+                font-size: 1.6rem;
+            }
+            
+            .english-text {
+                margin-top: 5px;
+                padding-left: 15px;
+                border-left: 2px solid #1a73e8; /* 移动端增加侧边线引导阅读 */
+            }
+        }
+        .floating-btn {
+        /* 定位与形状 */
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        padding: 0 20px;
+        height: 50px;
+        border-radius: 25px; /* 胶囊形或圆形，根据内容自动调节 */
+        
+        /* 样式 */
+        background: rgba(106, 27, 154, 0.9);
+        color: white;
+        border: none;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 8px; /* 图标和文字的间距 */
+        box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        z-index: 1000;
+        transition: all 0.2s ease;
+        font-family: sans-serif;
+      }
+
+      .floating-btn:hover {
+        transform: translateY(-2px);
+        background: rgba(106, 27, 154, 1);
+      }
+
+      .floating-btn:active {
+        transform: translateY(0);
+      }
+
+      /* 状态样式：当你在 JS 里切换 class 或属性时可以改变颜色 */
+      .floating-btn.is-hidden {
+        background: #555; /* 隐藏状态变灰色 */
+      }

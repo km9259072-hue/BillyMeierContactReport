@@ -3,13 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>比利迈尔接触报告中文版 - 昂宿星人案例实录与UFO证据 | FIGU中文网</title>
-    <meta name="description" content="本站专注于比利·迈尔（Billy Meier）接触报告的中文翻译与研究,收录最全的昂宿星人（Plejaren）对话录、UFO证据照片及相关预言解析,昂宿星人案例实录与UFO证据。">
+    <title>比利迈尔接触报告中文版 - 接触报告首页 | 比利迈尔接触报告翻译网</title>
+    <meta name="description" content="本站专注于比利·迈尔（Billy Meier）接触报告的中文翻译与研究,收录最全的昂宿星人（Plejaren）对话录、UFO证据照片及相关预言解析,接触报告首页。">
     <meta name="keywords" content="比利迈尔, 接触报告, Billy Meier, 昂宿星人, Plejaren, UFO证据, 外星文明真相, 迈尔案例">
     <link rel="stylesheet" href="/static/billymeiercontactreport/css/nav.css?version=v0.0.1" />
+    <link rel="stylesheet" href="/static/billymeiercontactreport/css/load.css?version=v0.0.1" />
     <link rel="stylesheet" type="text/css" href="/static/billymeiercontactreport/css/index.css?version=v0.0.1">
 </head>
 <body>
+    <!--加载动画-->
+    <div id="loading-mask">
+      <div class="spinner"></div>
+    </div>
+    <!--加载动画-->
     <nav>
         <div class="logo"><a href="/index.html">比利迈尔接触报告</a></div>
         <div class="nav-links">
@@ -42,3 +48,18 @@
     </section>
 </body>
 </html>
+<script src="/static/js/jquery-3.6.4.min.js?version=v0.0.1"></script>
+<script src="/static/js/jquery-migrate-3.6.0.min.js?version=v0.0.1"></script>
+<script>
+  window.addEventListener('load', () => {
+        const loader = document.getElementById('loading-mask');
+        // 稍微延迟一下，避免闪现（可选）
+        setTimeout(() => {
+            loader.style.opacity = '0'; // 触发 CSS 过渡
+            // 动画结束后移除元素，防止挡住页面点击
+            setTimeout(() => {
+                loader.style.display = 'none';
+            }, 500); 
+        }, 300);
+    });
+</script>

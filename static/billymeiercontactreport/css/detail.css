@@ -128,3 +128,6 @@
       .floating-btn.is-hidden {
         background: #555; /* 隐藏状态变灰色 */
       }
+      .translation-row img {
+            max-width: 100%;
+        }
